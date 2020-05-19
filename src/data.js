@@ -3205,6 +3205,34 @@ module.exports = [
     ],
   },
   {
+    name: 'Eugene Oliveros',
+    description:
+      'A Software Developer. A lazy one'
+    url: 'https://jinyuz.me/uses',
+    twitter: '@yujinyuz',
+    emoji: '🐌',
+    country: '🇵🇭',
+    computer: 'apple',
+    phone: 'android',
+    tags: [
+      'Developer',
+      'Full Stack',
+      'Freelancer',
+      'HTML',
+      'CSS',
+      'Python',
+      'Javascript',
+      'Ruby',
+      'JAMStack',
+      'Vim',
+      'Lazy',
+      'Django',
+      'Flask',
+      'Gatsby',
+      'ReactJS',
+    ],
+  },
+  {
     name: 'Glenn Reyes',
     description:
       'Independent Software Engineer, trainer & speaker. Into sports & music.',
